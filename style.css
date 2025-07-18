@@ -15,7 +15,7 @@ body {
     background-repeat: no-repeat;
     background-position: 70% top;
     background-size: cover;
-    background-image: url(/images/bg-image.jpg);
+    background-image: url(images/bg-image.jpg);
 }
 
 /* header */
